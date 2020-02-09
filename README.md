@@ -1,2 +1,3 @@
-# notational-velocity
-nvALT-like front end-agnostic server.
+# Notational Acceleration
+
+Notational Velocity-like front end-agnostic server.
